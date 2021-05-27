@@ -1,4 +1,4 @@
-### Hi there, I'm Nick Vanden Eynde 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ninjawulf98)</div>
+### Hi there, I'm Nick Vanden Eynde 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=vitanick)</div>
 
 ## I'm a Full stack Developer, Technology enthusiast from Belgium
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjawulf98&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitanick&show_icons=true&theme=radical&count_private=true"/>
 </p>
 
 <p align='center'>
