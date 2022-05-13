@@ -1,6 +1,6 @@
 ### Hi there, I'm Nick Vanden Eynde 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=vitanick)</div>
 
-## I'm a Full stack Developer, Technology enthusiast from Belgium
+## I'm a Full stack Developer, Technology enthusiast
 
 - 💻 I love to learn new technologies
 - 🦾 I tinker around with every mechanical device
